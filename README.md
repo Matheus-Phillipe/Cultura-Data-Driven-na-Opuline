@@ -62,7 +62,8 @@ Participei de um projeto com a Opuline, empresa do setor de cosméticos e beleza
 
 ### Dashboard de produtos
 
-![Dash_produtos](https://github.com/user-attachments/assets/38d8e004-6c6c-4e82-8243-679ea00628db)
+
+![Dash_produtos](https://github.com/user-attachments/assets/3bb8e1a9-58f7-4e1f-a8f2-2c29f91553be)
 
 📊 Componentes do Dashboard Desenvolvido:
 
