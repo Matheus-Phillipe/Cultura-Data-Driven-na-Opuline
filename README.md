@@ -19,6 +19,7 @@ Participei de um projeto com a Opuline, empresa do setor de cosméticos e beleza
 * Integrei e organizei todos os visuais em relatórios interativos no Power BI, com navegação fluida entre páginas
 
 ## Confira o Dashboard em sua versão final:
+### Dashboard de Vendas
 
 ![Dash_vendas](https://github.com/user-attachments/assets/d480dd14-effe-4afa-90ef-8e750780093b)
 
@@ -58,3 +59,25 @@ Participei de um projeto com a Opuline, empresa do setor de cosméticos e beleza
 9. Botões de Navegação entre Dashboards:
 
     * Inclusão de botões interativos para facilitar a navegação entre diferentes páginas do relatório, proporcionando uma experiência mais fluida e intuitiva ao usuário.
+
+### Dashboard de produtos
+
+![Dash_produtos](https://github.com/user-attachments/assets/2a002311-0741-4719-add0-29c7c03d1ec4)
+
+📊 Componentes do Dashboard Desenvolvido:
+
+1. Produtos Vendidos (Gráfico de Barras Clusterizado):
+
+    * Visualização comparativa do volume de produtos vendidos, mostrando a imagem do produto quando sobrepor o ponteiro do mouse.
+
+2. Origem (Segmentação de Dados):
+
+    * Filtro interativo para selecionar a origem da venda (nacional, internacional), permitindo análises direcionadas com base no ponto de entrada do cliente.
+
+3. Segmentação por Categoria, Subcategoria e Período:
+
+    * Filtros interativos (segmentações) para permitir análise dinâmica por produto e por faixa temporal.
+
+4. Quantidade por Venda (Gráfico de Dispersão com Agrupamento por Categoria)
+
+    * Representação visual da relação entre quantidade de itens por venda e sua respectiva categoria, com agrupamentos que facilitam a identificação de padrões e outliers entre diferentes tipos de produtos.
