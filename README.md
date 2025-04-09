@@ -33,7 +33,7 @@ Participei de um projeto com a Opuline, empresa do setor de cosméticos e beleza
 
 3. Ship To Door (KPI):
 
-Indicador de desempenho específico para entregas no modelo "Ship To Door", com comparação frente à meta definida.
+  * Indicador de desempenho específico para entregas no modelo "Ship To Door", com comparação frente à meta definida.
 
 4. Metas com Indicador Visual:
 
@@ -53,4 +53,8 @@ Indicador de desempenho específico para entregas no modelo "Ship To Door", com 
 
 8. Vendas por: (Parâmetro Campo com Filtro Dinâmico):
 
-    * Implementação de parâmetro que permite ao usuário escolher o campo desejado para análise (ex: vendedor, canal, produto), alterando dinamicamente o visual correspondente.
+    * Implementação de parâmetro que permite ao usuário escolher o campo desejado para análise (ex: categoria, marca, tipo), alterando dinamicamente o visual correspondente.
+
+9. Botões de Navegação entre Dashboards:
+
+    * Inclusão de botões interativos para facilitar a navegação entre diferentes páginas do relatório, proporcionando uma experiência mais fluida e intuitiva ao usuário.
