@@ -62,7 +62,7 @@ Participei de um projeto com a Opuline, empresa do setor de cosméticos e beleza
 
 ### Dashboard de produtos
 
-![Dash_produtos](https://github.com/user-attachments/assets/2a002311-0741-4719-add0-29c7c03d1ec4)
+![Dash_produtos](https://github.com/user-attachments/assets/38d8e004-6c6c-4e82-8243-679ea00628db)
 
 📊 Componentes do Dashboard Desenvolvido:
 
@@ -81,3 +81,7 @@ Participei de um projeto com a Opuline, empresa do setor de cosméticos e beleza
 4. Quantidade por Venda (Gráfico de Dispersão com Agrupamento por Categoria)
 
     * Representação visual da relação entre quantidade de itens por venda e sua respectiva categoria, com agrupamentos que facilitam a identificação de padrões e outliers entre diferentes tipos de produtos.
+
+5. Botões de Navegação entre Dashboards:
+
+    * Inclusão de botões interativos para facilitar a navegação entre diferentes páginas do relatório, proporcionando uma experiência mais fluida e intuitiva ao usuário.
