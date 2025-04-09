@@ -1,6 +1,6 @@
 # 💼 Projeto: Implementação de Cultura Data Driven na Opuline
 
-Obs: Projeto desenvolvido juntamente com a Alura, para concluir a formação de Power BI. O projeto tem finalidade acadêmica.
+**Obs**: Projeto desenvolvido juntamente com a **Alura**, para concluir a formação de Power BI. O projeto tem finalidade acadêmica.
 
 Participei de um projeto com a Opuline, empresa do setor de cosméticos e beleza, que buscava iniciar sua transformação para uma cultura orientada por dados. Apesar de ainda não possuir um processo estruturado de análise, a Opuline demonstrou interesse em utilizar o Power BI como ferramenta central para começar a tomar decisões mais embasadas. O objetivo do projeto foi criar um painel interativo que consolidasse os principais indicadores de vendas da empresa, permitindo análises por localidade, tempo e desempenho geral, promovendo assim a valorização dos dados como parte da cultura organizacional.
 
@@ -34,7 +34,7 @@ Participei de um projeto com a Opuline, empresa do setor de cosméticos e beleza
 
 3. Ship To Door (KPI):
 
-    * Indicador de desempenho específico para entregas no modelo "Ship To Door", com comparação frente à meta definida.
+    * Indicador de desempenho específico para entregas no modelo *Ship To Door*, com comparação frente à meta definida.
 
 4. Metas com Indicador Visual:
 
