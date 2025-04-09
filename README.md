@@ -34,7 +34,7 @@ Participei de um projeto com a Opuline, empresa do setor de cosméticos e beleza
 
 3. Ship To Door (KPI):
 
-  * Indicador de desempenho específico para entregas no modelo "Ship To Door", com comparação frente à meta definida.
+    * Indicador de desempenho específico para entregas no modelo "Ship To Door", com comparação frente à meta definida.
 
 4. Metas com Indicador Visual:
 
